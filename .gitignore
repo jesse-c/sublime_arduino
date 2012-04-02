@@ -1,0 +1,17 @@
+# OSX noise
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Sublime Text
+/*.sublime-project
+
+# Vim
+.*.sw[a-z]
+*.un~
+Session.vim
